@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxfie1d.com/sitemap.xml
+Host: https://maxfie1d.com
